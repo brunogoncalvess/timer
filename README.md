@@ -1,7 +1,8 @@
 #### português
 
 # Projeto de timer
-<br />
+
+Você pode ver o deploy aqui: https://timer-projec-t.netlify.app/
 
 ## Tecnologias utilizadas
 <br>
@@ -28,7 +29,8 @@ git clone https://github.com/brunogoncalvess/timer.git
 #### english
 
 # Timer project
-<br />
+
+You can see the deploy here: https://timer-projec-t.netlify.app/
 
 ## Technologies used
 <br>
